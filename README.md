@@ -22,8 +22,8 @@ Here are some of the projects I've been working on:
 
 
 ## 📫 How to reach me
-- **Email:** [raj@example.com](mailto:rajkumarmohanty949@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/rajzzz10/](https://in.linkedin.com/in/raj-kumar-mohanty-8472612b9?trk=people-guest_people_search-card))
+- **Email:** [rajkumarmohanty949@gmail.com](mailto:rajkumarmohanty949@gmail.com)
+- **LinkedIn:** [Raj Kumar Mohanty]([https://www.linkedin.com/in/rajzzz10/](https://in.linkedin.com/in/raj-kumar-mohanty-8472612b9?trk=people-guest_people_search-card))
 
 ## 🌱 Currently Learning
 I'm currently learning more about:
